@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">caffeine</string>
+    <string name="macchiato">Macchiato</string>
+    <string name="continue_button">Continue</string>
+    <string name="back_button">Back</string>
+    <string name="coffee_cup">Coffee Cup</string>
+    <string name="tc_logo">TC Logo</string>
+    <string name="wifi">WiFi</string>
+    <string name="signal">Signal</string>
+    <string name="battery">Battery</string>
+    <string name="coffee_beans">Coffee Beans</string>
+    <string name="star">Star</string>
+    <string name="size_small">S</string>
+    <string name="size_medium">M</string>
+    <string name="size_large">L</string>
+    <string name="strength_low">Low</string>
+    <string name="strength_medium">Medium</string>
+    <string name="strength_high">High</string>
+    <string name="volume_200ml">200 ML</string>
+    <string name="time_930">9:30</string>
+    <string name="bring_my_coffee">bring my coffee</string>
+</resources>
